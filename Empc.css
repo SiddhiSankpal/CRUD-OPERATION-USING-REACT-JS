@@ -1,0 +1,38 @@
+custom-table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  .custom-table th,
+  .custom-table td {
+    border: 3px solid #39036b6b;
+    padding: 8px;
+  }
+  
+  .custom-table th {
+    background-color: #e49f0b;
+    font-weight: bold;
+  }
+  
+  .image {
+    width: 600px;
+    height: 600px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 45%;
+  }
+  .tableStyle {
+    margin: 50px auto;
+    color: #bd7914;
+    border-collapse: collapse;
+    width: 50%;
+  }
+  .custom-table {
+    border-collapse: collapse;
+    width: 100%;
+    border: 2px solid black;
+  }
+  .colored-button {
+    /* background-color: blue; */
+    color: red;
+  }
